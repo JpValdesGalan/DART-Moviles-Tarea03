@@ -1,8 +1,8 @@
-# Tarea 02 - Analizando Layouts
+# Tarea 03 - Analizando Layouts
 
 ### Lo que mas me costo trabajo
 
-En esta tarea me costo trabajo manejar el estado de mi lista de items y poder displayearlos en el alertlog, creo que me falta practicas y entender mas a profundidad como se pasan los datos de los objetos y en si entender esta parte ya funcional de flutter.
+En esta tarea me costo trabajo manejar el estado de mi lista de items y poder displayearlos en el alertlog, creo que me falta practicar y entender mas a profundidad como se pasan los datos de los objetos y en si entender esta parte ya funcional de flutter.
 
 ### Lo que aprendi
 
