@@ -21,12 +21,12 @@ class BottomMenu extends StatelessWidget {
             onPressed: () => showDialog(
               context: context,
               builder: (BuildContext context) => AlertDialog(
-                title: const Text('Pickup'),
-                content: const Text('AlertDialog description'),
+                title: Text('Pickup'),
+                content: Text('Lista de Items'),
                 actions: [
                   TextButton(
                     onPressed: () => Navigator.pop(context, 'OK'),
-                    child: const Text('OK'),
+                    child: Text('OK'),
                   ),
                 ],
               ),
@@ -57,7 +57,7 @@ class BottomMenu extends StatelessWidget {
               context: context,
               builder: (BuildContext context) => AlertDialog(
                 title: const Text('Delivery'),
-                content: const Text('AlertDialog description'),
+                content: const Text('Lista de Items'),
                 actions: [
                   TextButton(
                     onPressed: () => Navigator.pop(context, 'OK'),
